@@ -1,0 +1,33 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@831&display=swap');
+</style>
+body {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    background-color: aquamarine;
+    
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+}
+
+#origami1{
+
+}
+
+#origami2{
+
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
